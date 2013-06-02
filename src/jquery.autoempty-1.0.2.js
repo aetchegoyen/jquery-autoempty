@@ -1,14 +1,17 @@
 /*
- * jQuery Auto Empty plug-in 1.0
+ * jQuery Auto Empty plug-in 1.0.2
  *
- * Alejandro Etchegoyen 
+ * Copyright (c) 2013 Alejandro Etchegoyen 
  *
- *Changelog
- *v1.0.1
- *  Added - Set the defaultValue when the input has no value 
- *  Added - Function isDefault to check if the input actually has the default value
- *v1.0.2
- *  Added - Placeholder property if compatible  
+ * http://www.etchegoyen.net/jquery/jquery-autoempty/
+ *
+ * Depends:
+ * - jQuery
+ *
+ * Dual licensed under the MIT and GPL licences:
+ * 	http://www.opensource.org/licenses/mit-license.php
+ *	http://www.gnu.org/licenses/gpl.html
+ *
  */
  
  (function($){
